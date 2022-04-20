@@ -1,6 +1,5 @@
-# Rete-neurale-previsione-sentimenti-di-odio-e-stereotipi
+# Hate and Stereotypes prediction inside tweeets using Neural Network
 
-Costruzione di una rete neurale per la previsione di sentimenti di odio e stereotipi all'interno di un testo.
+Construction of a neural network for predicting hate sentiments and stereotypes within a text.
 
-Le reti neurali sono state addestrate su un dataset ottenuto da commenti di Twitter.
-Nel file studi_sul_dataset.py sono presenti gli studi svolti per la fase di feature_selection. I risultati possono essere visualizzati all'interno della relazione in pdf.
+The neural networks were trained on a dataset obtained from Twitter comments. The file studi_sul_dataset.py contains the studies performed for the feature_selection phase. The results can be viewed within the pdf report.
