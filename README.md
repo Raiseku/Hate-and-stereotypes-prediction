@@ -1,5 +1,5 @@
 # Hate and Stereotypes prediction inside tweeets using Neural Network
 
-Construction of a neural network for predicting hate sentiments and stereotypes within a text.
+This Python project uses a neural network to predict the presence of hate and stereotypes in tweets. The model is trained on a dataset of tweets that have been labeled as either containing hate speech or not, as well as a dataset of tweets that have been labeled as containing stereotypes or not.
 
-The neural networks were trained on a dataset obtained from Twitter comments. The file studi_sul_dataset.py contains the studies performed for the feature_selection phase. The results can be viewed within the pdf report.
+The file studi_sul_dataset.py contains the studies performed for the feature selection phase. The results can be viewed within the pdf report.
